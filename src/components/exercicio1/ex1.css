@@ -1,0 +1,12 @@
+.square {
+  background-color: #fec800;
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.square__title {
+}
