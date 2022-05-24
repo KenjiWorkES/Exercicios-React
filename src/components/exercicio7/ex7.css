@@ -1,0 +1,32 @@
+.greet {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.greet__input {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border: 1px solid gainsboro;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+.greet__button {
+  border: none;
+  width: 300px;
+  height: 50px;
+  background-color: #0d6efd;
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.greet__button:hover {
+  background-color: #0b5ed7;
+  transition: all 0.3s;
+}
