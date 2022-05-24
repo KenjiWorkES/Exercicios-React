@@ -1,0 +1,24 @@
+.cont-button {
+  margin: 0 auto;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.cont-button__btn {
+  border: none;
+  width: 100px;
+  height: 35px;
+  background-color: #0d6efd;
+  border-radius: 10px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.cont-button__btn:hover {
+  background-color: #0b5ed7;
+  transition: all 0.3s;
+}
