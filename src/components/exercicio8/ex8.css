@@ -1,0 +1,13 @@
+.jokes {
+  background-color: #e1f8db;
+  width: 800px;
+  padding: 20px;
+  margin: 0 auto;
+  display: flex;
+  text-align: center;
+}
+
+.jokes__item {
+  background-color: white;
+  margin: 0 10px;
+}
