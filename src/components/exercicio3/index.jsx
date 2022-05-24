@@ -2,7 +2,7 @@ import "./ex3.css";
 import Button from "./Button";
 
 const clickHandler = (event) => {
-  alert("You clicke on Button " + event.target.id);
+  alert("You click on Button " + event.target.id);
 };
 
 function Exercicio3() {
